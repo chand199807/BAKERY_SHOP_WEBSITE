@@ -1,0 +1,38 @@
+.b1
+{
+	background:url('images/b2.jpg');
+background-size:cover;
+}
+.login1
+{
+background:url('images/op.jpg');
+
+}
+.dia{
+	color:white;
+	font-family:gabriola;
+	font-size:60px;
+	animation-name:abc;
+	animation-iteration-count:infinite;
+animation-duration:2s;
+text-shadow:yellow 4px 4px 4px;
+}
+@keyframes abc
+{
+	0%{color:orange}
+	24%{color:green}
+	43%{color:yellow}
+	63%{color:green}
+	79%{color:yellow}
+	86%{color:orange}
+	100%{color:red}
+	
+	
+	
+	
+}
+.nm
+{
+background:url('images/lm.jpg');
+background:cover;
+}

@@ -1,0 +1,59 @@
+.apl
+{color:white;
+font-family:gabriola;
+font-size:28pt;
+	animation-name:abcd;
+	animation-iteration-count:infinite;
+animation-duration:2s;
+text-shadow:yellow 3px 3px 3px;
+animation-timing-function:ease-in;
+}
+@keyframes abcd{
+0%{background:rgb(217,0,108)}
+20%{background:rgb(193,0,97)}
+40%{background:rgb(176,0,88)}
+60%{background:rgb(176,0,88)}
+80%{background:rgb(193,0,97)}
+100%{background:rgb(217,0,108)}
+}
+
+.apl1
+{color:white;
+font-family:gabriola;
+font-size:28pt;
+	animation-name:abcde;
+	animation-iteration-count:infinite;
+animation-duration:2s;
+text-shadow:yellow 3px 3px 3px;
+animation-timing-function:ease-in;
+}
+@keyframes abcde{
+0%{background:rgb(217,0,108)}
+20%{background:rgb(193,0,97)}
+40%{background:rgb(176,0,88)}
+60%{background:rgb(176,0,88)}
+80%{background:rgb(193,0,97)}
+100%{background:rgb(217,0,108)}
+}
+
+.apl2
+{color:white;
+font-family:gabriola;
+font-size:28pt;
+	animation-name:abcdf;
+	animation-iteration-count:infinite;
+animation-duration:2s;
+text-shadow:yellow 3px 3px 3px;
+animation-timing-function:ease-in;
+}
+@keyframes abcdf{
+0%{background:rgb(217,0,108)}
+20%{background:rgb(193,0,97)}
+40%{background:rgb(176,0,88)}
+60%{background:rgb(176,0,88)}
+80%{background:rgb(193,0,97)}
+100%{background:rgb(217,0,108)}
+}
+
+
+

@@ -1,0 +1,28 @@
+.wer
+{
+	font-family:gabriola;
+	font-size:29pt;
+	color:white;
+	height:40px;
+	background:rgb(131,14,34);
+	text-shadow:yellow 6px 6px 6px;
+	animation-name:ghj;
+	animation-timing-function:ease-in;
+	animation-iteration-count:infinite;
+	animation-duration:2s;
+	
+	
+}
+@keyframes ghj{
+
+0%{background:rgb(190,20,50);font-size:0pt}
+20%{background:rgb(134,15,36);font-size:6pt}
+
+40%{background:rgb(117,13,31);font-size:12pt}
+60%{background:rgb(113,13,30);font-size:14pt}
+80%{background:rgb(102,11,27);font-size:18pt}
+100%{background:rgb(98,11,26);font-size:19pt}
+
+
+
+}

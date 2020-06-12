@@ -1,0 +1,20 @@
+
+.bnm
+{
+	animation-name:try;
+animation-iteration-count:infinite;
+animation-duration:2s;
+	animation-timing-function:ease-in;
+}
+@keyframes try{
+0%{background:rgb(215,34,102)}
+20%{background:rgb(193,30,31)}
+40%{background:rgb(176,28,34)}
+60%{background:rgb(176,28,34)}
+80%{background:rgb(193,30,31)}
+100%{background:rgb(215,34,102)}
+}
+.aa:hover
+{
+	background-color:rgb(228,133,228);
+}

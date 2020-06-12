@@ -1,0 +1,50 @@
+.ksp
+{
+	background:rgb(173,228,5);
+	width:600px;
+	height:10px;
+	border-radius:6px;
+	animation-name:tyb;
+	margin-top:-40px;
+	
+	animation-iteration-count:infinite;
+animation-duration:2s;
+	animation-timing-function:ease-in;
+}
+@keyframes tyb{
+0%{width:650px}
+20%{width:670px}
+40%{width:700px}
+60%{width:700px}
+80%{width:670px}
+100%{width:650px}
+}
+.yua:hover
+{
+	border:solid;
+	border-radius:10px;
+	border-width:2px;
+	border-color:rgb(24,143,255);
+	box-shadow:29px 29px 29px;
+}
+#gcj:hover
+{
+	text-shadow:black 4px 4px 4px;
+	font-size:25pt;
+	font-family:gabriola;
+}
+.jk
+{
+	animation-name:fgh;
+animation-iteration-count:infinite;
+animation-duration:2s;
+	animation-timing-function:ease-in;
+}
+@keyframes fgh{
+0%{background:rgb(26,181,198)}
+20%{background:rgb(21,150,164)}
+40%{background:rgb(22,154,169)}
+60%{background:rgb(22,154,169)}
+80%{background:rgb(21,150,164)}
+100%{background:rgb(26,181,198)}
+}

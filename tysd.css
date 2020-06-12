@@ -1,0 +1,37 @@
+.yi
+{
+	animation-name:qwert;
+animation-iteration-count:infinite;
+animation-duration:2s;
+	animation-timing-function:ease-in;
+}
+@keyframes qwert{
+0%{background:rgb(167,186,35)}
+20%{background:rgb(156,173,33)}
+40%{background:rgb(135,150,29)}
+60%{background:rgb(135,150,29)}
+80%{background:rgb(156,173,33)}
+100%{background:rgb(167,186,35)}
+}
+.kpq
+{
+	background:rgb(143,35,81);
+	width:450px;
+	height:10px;
+	border-radius:6px;
+	animation-name:tyb;
+	margin-top:-40px;
+	animation-iteration-count:infinite;
+animation-duration:2s;
+	animation-timing-function:ease-in;
+}
+@keyframes tyb{
+0%{width:510px}
+20%{width:530px}
+40%{width:550px}
+60%{width:550px}
+80%{width:530px}
+100%{width:510px}
+}
+
+
